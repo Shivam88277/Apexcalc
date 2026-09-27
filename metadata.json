@@ -1,0 +1,6 @@
+{
+  "name": "ApexCalc",
+  "description": "Advanced scientific calculator featuring customizable dark themes, calculation history with sync/export, memory functions, and intuitive copy-pasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
